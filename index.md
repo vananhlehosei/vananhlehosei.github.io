@@ -1,23 +1,16 @@
 ---
 layout: home
-title: Home
+title: Trang chủ
+nav_order: 1
 ---
 
 # Vân Anh Phonetics Lab
 
 Xin chào!
 
-Website chia sẻ kiến thức về:
+Đây là website chia sẻ về:
 
-- Ngữ âm học
-- Phát âm tiếng Nhật
-- Tiếng Việt
-- L2 Acquisition
-
----
-
-## 📚 Bài viết
-
-### Một số vấn đề về phát âm âm tắc tiếng Nhật của người Việt
-
-👉 [Đọc bài viết](/phat-am-am-tac-tieng-nhat/)
+- 🇯🇵 Tiếng Nhật
+- 🔬 Ngữ âm học
+- 🌏 Cuộc sống ở Nhật
+- 📷 Du lịch
