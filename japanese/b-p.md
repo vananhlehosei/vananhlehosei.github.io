@@ -1,8 +1,10 @@
 ---
-title: Âm b - p
-parent: Phát âm âm tắc
-grand_parent: Tiếng Nhật
-nav_order: 2
+title: "Âm b – p"
+permalink: /tieng-nhat/phat-am/b-p/
+layout: single
+author_profile: false
+sidebar:
+  nav: "sidebar-japanese"
 ---
 
 # Âm b – p
