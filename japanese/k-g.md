@@ -2,7 +2,7 @@
 title: Âm k - g
 parent: Phát âm
 grand_parent: Tiếng Nhật
-nav_order: 3
+nav_order: 4
 ---
 
 # Âm k – g
