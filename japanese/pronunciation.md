@@ -1,8 +1,10 @@
 ---
 title: Phát âm
 parent: Tiếng Nhật
-has_children: true
 nav_order: 1
+has_children: true
 ---
 
 # Phát âm tiếng Nhật
+
+Các bài viết về phát âm tiếng Nhật dành cho người Việt.
