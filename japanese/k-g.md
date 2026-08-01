@@ -1,8 +1,10 @@
 ---
-title: Âm k - g
-parent: Phát âm âm tắc
-grand_parent: Tiếng Nhật
-nav_order: 4
+title: "Âm k – g"
+permalink: /tieng-nhat/phat-am/k-g/
+layout: single
+author_profile: false
+sidebar:
+  nav: "sidebar-japanese"
 ---
 
 # Âm k – g
