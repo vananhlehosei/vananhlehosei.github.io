@@ -1,7 +1,8 @@
 ---
 title: Tổng quan
-parent: Phát âm
-grand_parent: Tiếng Nhật
+parent: Phát âm âm tắc
+grand_parent: Phát âm
+great_grand_parent: Tiếng Nhật
 nav_order: 1
 ---
 
