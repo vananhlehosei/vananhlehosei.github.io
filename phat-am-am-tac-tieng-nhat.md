@@ -70,7 +70,35 @@ Khi hiểu được hệ thống âm của hai ngôn ngữ và so sánh chúng v
 
 ### 2.3. Bảng âm tiếng Việt và tiếng Nhật
 
-> Bạn có thể chèn hình bảng phụ âm và nguyên âm vào phần này sau.
+## 2.3 So sánh hệ thống âm của tiếng Việt và tiếng Nhật
+
+### Phụ âm tiếng Việt
+
+![Bảng phụ âm tiếng Việt](/images/vietnamese-consonants.png)
+
+*Nguồn: Kirby (2011).*
+
+---
+
+### Nguyên âm tiếng Việt
+
+![Bảng nguyên âm tiếng Việt](/images/vietnamese-vowels.png)
+
+*Nguồn: Kirby (2011).*
+
+---
+
+### Phụ âm tiếng Nhật
+
+![Bảng phụ âm tiếng Nhật](/images/japanese-consonants.png)
+
+---
+
+### Nguyên âm tiếng Nhật
+
+![Bảng nguyên âm tiếng Nhật](/images/japanese-vowels.png)
+
+*Nguồn: Vance (2015).*
 
 **Nguồn tiếng Việt:**  
 Kirby, J. P. (2011). *Vietnamese (Hanoi Vietnamese).* Journal of the International Phonetic Association, 41(3), 381–392.  
@@ -145,6 +173,7 @@ Vì vậy, khi phát âm d trong tiếng Nhật, hãy chủ động đẩy luồ
 
 Nguồn hình minh họa:  
 https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_plosives
+![Voiced dental and alveolar plosive](/images/voiced-dental-alveolar-plosive.png)
 
 ### Phụ âm t
 
@@ -189,6 +218,7 @@ Vì vậy, nếu giữ nguyên cách phát âm g của tiếng Việt khi nói t
 
 #### Âm g trong tiếng Nhật
 
+![Voiced velar plosive](/images/voiced-velar-plosive.png)
 Nguồn:  
 https://en.wikipedia.org/wiki/Voiced_velar_plosive
 
@@ -202,6 +232,8 @@ Khi phát âm:
 Có thể hình dung cơ chế này gần giống với âm k trong tiếng Việt, chỉ khác ở chỗ dây thanh quản rung.
 
 #### Âm g trong tiếng Việt
+
+![Voiced velar fricative](/images/voiced-velar-fricative.png)
 
 Nguồn:  
 https://en.wikipedia.org/wiki/Voiced_velar_fricative
