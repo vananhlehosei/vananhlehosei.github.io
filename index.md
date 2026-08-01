@@ -4,13 +4,16 @@ title: Trang chủ
 nav_order: 1
 ---
 
-# Vân Anh Phonetics Lab
+# Xin chào 👋
 
-Xin chào!
+Mình là **Lê Vân Anh**.
 
-Đây là website chia sẻ về:
+Chào mừng bạn đến với website cá nhân của mình.
+
+Tại đây mình chia sẻ:
 
 - 🇯🇵 Tiếng Nhật
 - 🔬 Ngữ âm học
 - 🌏 Cuộc sống ở Nhật
-- 📷 Du lịch
+- ✈️ Du lịch
+- 📷 Hình ảnh
