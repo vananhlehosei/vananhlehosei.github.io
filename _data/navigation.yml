@@ -1,0 +1,27 @@
+main:
+  - title: "Trang chủ"
+    url: /
+
+  - title: "Tiếng Nhật"
+    url: /tieng-nhat/
+
+  - title: "Cuộc sống"
+    url: /cuoc-song/
+
+  - title: "Nghiên cứu"
+    url: /nghien-cuu/
+
+  - title: "Giới thiệu"
+    url: /gioi-thieu/
+
+sidebar-japanese:
+  - title: "Phát âm tiếng Nhật"
+    children:
+      - title: "Tổng quan"
+        url: /tieng-nhat/phat-am/tong-quan/
+      - title: "Âm b – p"
+        url: /tieng-nhat/phat-am/b-p/
+      - title: "Âm d – t"
+        url: /tieng-nhat/phat-am/d-t/
+      - title: "Âm k – g"
+        url: /tieng-nhat/phat-am/k-g/
