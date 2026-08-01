@@ -1,10 +1,21 @@
 ---
-title: Phát âm Âm tắc trong Tiếng Nhật
+title: Phát âm âm tắc
 parent: Tiếng Nhật
 nav_order: 1
 has_children: true
 ---
 
-# Phát âm âm tắc trong Tiếng Nhật
+# Phát âm âm tắc
 
-Các bài viết về phát âm tiếng Nhật âm tắc dành cho người Việt.
+Trang này tổng hợp các bài viết về phụ âm tắc trong tiếng Nhật.
+
+## Giới thiệu
+
+Phụ âm tắc là một trong những nhóm âm quan trọng nhất đối với người học tiếng Nhật.
+
+Các bài viết dưới đây sẽ lần lượt giới thiệu:
+
+- Tổng quan
+- Âm b – p
+- Âm d – t
+- Âm k – g
