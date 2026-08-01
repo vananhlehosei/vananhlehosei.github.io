@@ -1,19 +1,20 @@
 ---
-layout: home
+layout: default
 title: Trang chủ
 nav_order: 1
 ---
 
-# Xin chào 👋
+# Vân Anh Blog
 
-Mình là **Lê Vân Anh**.
+Xin chào! Mình là **Vân Anh**.
 
-Chào mừng bạn đến với website cá nhân của mình.
+Đây là nơi mình chia sẻ về:
 
-Tại đây mình chia sẻ:
+- Tiếng Nhật và phát âm
+- Ngữ âm học
+- Cuộc sống tại Nhật Bản
+- Du lịch và những câu chuyện cá nhân
 
-- 🇯🇵 Tiếng Nhật
-- 🔬 Ngữ âm học
-- 🌏 Cuộc sống ở Nhật
-- ✈️ Du lịch
-- 📷 Hình ảnh
+## Bài viết nổi bật
+
+[Đọc tài liệu về phát âm âm tắc tiếng Nhật](/phat-am-am-tac-tieng-nhat/)
