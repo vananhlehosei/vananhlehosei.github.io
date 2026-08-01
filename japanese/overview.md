@@ -1,11 +1,13 @@
 ---
-title: Tổng quan
-parent: Phát âm âm tắc
-grand_parent: Tiếng Nhật
-nav_order: 1
+title: "Tổng quan"
+permalink: /tieng-nhat/phat-am/tong-quan/
+layout: single
+author_profile: false
+sidebar:
+  nav: "sidebar-japanese"
 ---
 
-# Tổng quan
+# Tổng quan về phát âm tiếng Nhật
 
 Phát âm là một trong những kỹ năng quan trọng khi học ngoại ngữ. Tuy nhiên, không phải cứ học lâu hay sống ở nước ngoài là sẽ phát âm giống người bản xứ.
 
