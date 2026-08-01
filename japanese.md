@@ -1,10 +1,11 @@
 ---
 title: Tiếng Nhật
+permalink: /tieng-nhat/
 layout: single
+author_profile: false
+sidebar:
+  nav: "sidebar-japanese"
 ---
-
-
-# Tiếng Nhật
 
 Tại đây mình chia sẻ các bài viết về tiếng Nhật dành cho người Việt.
 
