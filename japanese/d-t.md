@@ -1,8 +1,10 @@
 ---
-title: Âm d - t
-parent: Phát âm âm tắc
-grand_parent: Tiếng Nhật
-nav_order: 3
+title: "Âm d – t"
+permalink: /tieng-nhat/phat-am/d-t/
+layout: single
+author_profile: false
+sidebar:
+  nav: "sidebar-japanese"
 ---
 
 # Âm d – t
