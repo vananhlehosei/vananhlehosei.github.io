@@ -5,15 +5,12 @@ title: Home
 
 # Vân Anh Phonetics Lab
 
-Xin chào!
+Chào mừng bạn đến với website của mình!
 
-Đây là website cá nhân của mình, nơi mình chia sẻ:
+Đây là nơi mình chia sẻ:
 
-- Ngữ âm học (Phonetics)
-- Phát âm tiếng Nhật
-- So sánh tiếng Nhật và tiếng Việt
-- Nghiên cứu về tiếp thu ngôn ngữ thứ hai (L2 Acquisition)
-
-## Bài viết
-
-Sắp được cập nhật...
+- 📚 Nghiên cứu ngữ âm học
+- 🇯🇵 Phát âm tiếng Nhật
+- 🇻🇳 So sánh phát âm Nhật - Việt
+- 🎧 Tài liệu học phát âm
+- 📝 Ghi chú nghiên cứu
