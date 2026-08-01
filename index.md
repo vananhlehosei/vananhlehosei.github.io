@@ -5,16 +5,19 @@ title: Home
 
 # Vân Anh Phonetics Lab
 
-Chào mừng bạn đến với website của mình!
+Xin chào!
 
-Đây là nơi mình chia sẻ:
+Website chia sẻ kiến thức về:
 
-- 📚 Nghiên cứu ngữ âm học
-- 🇯🇵 Phát âm tiếng Nhật
-- 🇻🇳 So sánh phát âm Nhật - Việt
-- 🎧 Tài liệu học phát âm
-- 📝 Ghi chú nghiên cứu
-## Tài liệu phát âm
+- Ngữ âm học
+- Phát âm tiếng Nhật
+- Tiếng Việt
+- L2 Acquisition
 
-- [Một số vấn đề về phát âm âm tắc tiếng Nhật của người Việt](/phat-am-am-tac-tieng-nhat/)
-  
+---
+
+## 📚 Bài viết
+
+### Một số vấn đề về phát âm âm tắc tiếng Nhật của người Việt
+
+👉 [Đọc bài viết](/phat-am-am-tac-tieng-nhat/)
