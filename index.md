@@ -4,7 +4,7 @@ title: ""
 author_profile: false
 ---
 
-# 👋 Xin chào, mình là Vân Anh
+# 👋 Xin chào, mình là Vân Anh (Ema)
 
 Mình hiện đang học và nghiên cứu tại Nhật Bản.
 
