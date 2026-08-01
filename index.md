@@ -11,6 +11,6 @@ Xin chào!
 Đây là website chia sẻ về:
 
 - 🇯🇵 Tiếng Nhật
-  🔬 Ngữ âm học
+- 🔬 Ngữ âm học
 - 🌏 Cuộc sống ở Nhật
-  📷 Du lịch
+- 📷 Du lịch
