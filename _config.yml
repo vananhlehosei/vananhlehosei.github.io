@@ -1,4 +1,13 @@
 title: "Vân Anh Phonetics Lab"
-description: "Japanese & Vietnamese Phonetics"
-theme: minima
-lang: vi
+
+description: "Japanese Phonetics • Vietnamese Phonetics"
+
+theme: just-the-docs
+
+url: "https://vananhlehosei.github.io"
+
+color_scheme: light
+
+search_enabled: true
+
+heading_anchors: true
