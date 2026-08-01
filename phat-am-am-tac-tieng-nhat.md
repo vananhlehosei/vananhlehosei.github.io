@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phát âm âm tắc tiếng Nhật
+title: Âm tắc tiếng Nhật dành cho người Việt
 parent: Phát âm
 grand_parent: Tiếng Nhật
 nav_order: 1
