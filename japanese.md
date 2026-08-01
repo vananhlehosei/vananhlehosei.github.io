@@ -1,11 +1,8 @@
 ---
-title: "Tiếng Nhật"
-permalink: /tieng-nhat/
+title: Tiếng Nhật
 layout: single
-author_profile: false
-sidebar:
-  nav: "sidebar-japanese"
 ---
+
 
 # Tiếng Nhật
 
