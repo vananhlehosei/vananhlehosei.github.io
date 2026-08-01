@@ -1,13 +1,17 @@
-title: "Vân Anh Phonetics Lab"
-
-description: "Japanese Phonetics • Vietnamese Phonetics"
-
-theme: just-the-docs
+title: "Vân Anh Blog"
+description: "Tiếng Nhật, ngữ âm học và cuộc sống tại Nhật Bản"
 
 url: "https://vananhlehosei.github.io"
 
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+
+plugins:
+  - jekyll-remote-theme
+
 color_scheme: light
-
 search_enabled: true
-
 heading_anchors: true
+
+aux_links:
+  "GitHub":
+    - "https://github.com/vananhlehosei/vananhlehosei.github.io"
