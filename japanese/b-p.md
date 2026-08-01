@@ -2,7 +2,7 @@
 title: Âm b - p
 parent: Phát âm
 grand_parent: Tiếng Nhật
-nav_order: 1
+nav_order: 2
 ---
 
 # Âm b – p
