@@ -1,8 +1,7 @@
 ---
 title: Âm d - t
 parent: Phát âm âm tắc
-grand_parent: Phát âm
-great_grand_parent: Tiếng Nhật
+grand_parent: Tiếng Nhật
 nav_order: 3
 ---
 
