@@ -9,15 +9,15 @@ sidebar:
 
 Những nơi mình đã đi qua trong hành trình khám phá Nhật Bản.
 
-## Nagano
+## Kyoto
 
-![Nagano](/images/travel/nagano.jpg)
+![Kyoto](/images/travel/kyoto.jpg)
 
 ---
 
-## Tochigi
+## Tokyo
 
-![Tochigi](/images/travel/tochigi.jpg)
+![Tokyo](/images/travel/tokyo.jpg)
 
 ---
 
