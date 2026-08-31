@@ -5,7 +5,9 @@ layout: single
 author_profile: false
 ---
 
-![Vân Anh](/images/about/profile.jpg)
+<img src="/images/about/profile.jpg"
+     alt="Vân Anh"
+     style="width: 250px; height: auto;">
 
 Xin chào, mình là **Vân Anh**.
 
