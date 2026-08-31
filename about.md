@@ -49,3 +49,15 @@ Mình muốn có một không gian riêng để lưu lại những gì mình đ�
 Website này không chỉ là nơi chia sẻ kiến thức mà còn là một cuốn nhật ký nhỏ về hành trình sống, học tập và trưởng thành của mình.
 
 Hy vọng những chia sẻ tại đây có thể hữu ích hoặc mang lại một chút cảm hứng cho những người tình cờ ghé qua.
+
+<div style="margin: 20px 0; font-size: 1.1em;">
+
+  <a href="LINK_FACEBOOK_CUA_BAN" target="_blank" style="margin-right: 20px;">
+    <i class="fab fa-facebook"></i> Facebook
+  </a>
+
+  <a href="LINK_TIKTOK_CUA_BAN" target="_blank">
+    <i class="fab fa-tiktok"></i> TikTok
+  </a>
+
+</div>
