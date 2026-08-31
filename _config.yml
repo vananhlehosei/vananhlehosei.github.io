@@ -1,6 +1,6 @@
 title: "Vân Anh Blog"
 name: "Lê Vân Anh"
-description: "Tiếng Nhật, ngữ âm học và cuộc sống tại Nhật Bản"
+description: "Tiếng Nhật, du lịch và trải nghiệm tại Nhật Bản"
 
 url: "https://vananhlehosei.github.io"
 baseurl: ""
@@ -20,7 +20,7 @@ locale: "vi-VN"
 
 author:
   name: "Lê Vân Anh"
-  bio: "Chia sẻ về tiếng Nhật, ngữ âm học và cuộc sống tại Nhật Bản."
+  bio: "Chia sẻ về tiếng Nhật, du lịch và trải nghiệm tại Nhật Bản."
   location: "Tokyo, Japan"
 
 defaults:

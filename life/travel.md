@@ -1,10 +1,10 @@
 ---
-title: "Du lịch"
-permalink: /cuoc-song/du-lich/
+title: "Khám phá Nhật Bản"
+permalink: /du-lich/nhat-ban/
 layout: single
 author_profile: false
 sidebar:
-  nav: "sidebar-life"
+  nav: "sidebar-travel"
 ---
 
 Những nơi mình đã đi qua trong hành trình khám phá Nhật Bản.

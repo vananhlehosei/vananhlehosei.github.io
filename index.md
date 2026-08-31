@@ -6,9 +6,9 @@ author_profile: false
 
 # 👋 Xin chào, mình là Vân Anh (Ema)
 
-Mình hiện đang học và nghiên cứu tại Nhật Bản.
+Mình hiện đang học tập và sinh sống tại Nhật Bản.
 
-Website này là nơi mình chia sẻ kiến thức về **tiếng Nhật**, **ngữ âm học** và những trải nghiệm trong cuộc sống.
+Website này là nơi mình chia sẻ kiến thức về **tiếng Nhật**, những chuyến **du lịch** và các **trải nghiệm** trong cuộc sống.
 
 ---
 
@@ -25,24 +25,23 @@ Website này là nơi mình chia sẻ kiến thức về **tiếng Nhật**, **n
 
 ---
 
-### 🔬 Nghiên cứu
+### ✈️ Du lịch
 
-- Japanese Phonetics
-- Vietnamese Phonetics
-- IPA
-- Voice Onset Time (VOT)
+- Điểm đến tại Nhật Bản
+- Lịch trình tham khảo
+- Hình ảnh và kỷ niệm
 
-👉 [Xem nghiên cứu](/nghien-cuu/)
+👉 [Khám phá](/du-lich/)
 
 ---
 
-### 🌏 Cuộc sống
+### 🌿 Trải nghiệm
 
-- Cuộc sống tại Nhật
-- Du lịch
-- Chia sẻ cá nhân
+- Học tập và làm việc tại Nhật
+- Những câu chuyện cá nhân
+- Góc nhìn sau mỗi chặng đường
 
-👉 [Đọc thêm](/cuoc-song/)
+👉 [Đọc thêm](/trai-nghiem/)
 
 ---
 

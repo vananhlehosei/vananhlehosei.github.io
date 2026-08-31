@@ -5,11 +5,11 @@ main:
   - title: "Tiếng Nhật"
     url: /tieng-nhat/
 
-  - title: "Cuộc sống"
-    url: /cuoc-song/
+  - title: "Du lịch"
+    url: /du-lich/
 
-  - title: "Nghiên cứu"
-    url: /nghien-cuu/
+  - title: "Trải nghiệm"
+    url: /trai-nghiem/
 
   - title: "Giới thiệu"
     url: /gioi-thieu/
@@ -25,12 +25,8 @@ sidebar-japanese:
         url: /tieng-nhat/phat-am/d-t/
       - title: "Âm k – g"
         url: /tieng-nhat/phat-am/k-g/
-sidebar-life:
-  - title: "Cuộc sống"
+sidebar-travel:
+  - title: "Du lịch"
     children:
-      - title: "Cuộc sống ở Nhật"
-        url: /cuoc-song/nhat-ban/
-      - title: "Du lịch"
-        url: /cuoc-song/du-lich/
-      - title: "Những câu chuyện cá nhân"
-        url: /cuoc-song/cau-chuyen/
+      - title: "Khám phá Nhật Bản"
+        url: /du-lich/nhat-ban/

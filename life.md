@@ -1,28 +1,16 @@
 ---
-title: "Cuộc sống"
-permalink: /cuoc-song/
+title: "Du lịch"
+permalink: /du-lich/
 layout: single
 author_profile: false
 sidebar:
-  nav: "sidebar-life"
+  nav: "sidebar-travel"
 ---
 
-Đây là nơi mình ghi lại những trải nghiệm trong cuộc sống, những chuyến đi và những câu chuyện nhỏ trong thời gian sống tại Nhật Bản.
+Đây là nơi mình lưu lại những chuyến đi, lịch trình và những khoảnh khắc đáng nhớ trong hành trình khám phá Nhật Bản.
 
-## 🌿 Cuộc sống ở Nhật
+## 🗾 Khám phá Nhật Bản
 
-Những trải nghiệm về học tập, công việc và cuộc sống thường ngày tại Nhật.
+Các điểm đến được sắp xếp theo từng khu vực và tỉnh thành để bạn dễ tìm kiếm và tham khảo.
 
-[Đọc các bài viết →](/cuoc-song/nhat-ban/)
-
-## ✈️ Du lịch
-
-Những nơi mình đã đi qua, lịch trình và những khoảnh khắc đáng nhớ tại Nhật Bản.
-
-[Khám phá →](/cuoc-song/du-lich/)
-
-## ☕ Những câu chuyện cá nhân
-
-Những suy nghĩ, trải nghiệm và điều mình muốn lưu lại trong cuộc sống.
-
-[Đọc thêm →](/cuoc-song/cau-chuyen/)
+[Khám phá các điểm đến →](/du-lich/nhat-ban/)
