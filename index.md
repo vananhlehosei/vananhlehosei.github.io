@@ -1,61 +1,111 @@
 ---
-layout: home
+layout: single
 title: ""
 author_profile: false
+sidebar:
+  nav: "main-sidebar"
 ---
 
-# 👋 Xin chào, mình là Vân Anh (Ema)
+<div class="home-intro">
 
+<img src="/images/about/profile.jpg"
+     class="home-avatar"
+     alt="Vân Anh">
+
+<h1>Xin chào, mình là Vân Anh (Ema) 👋</h1>
+
+<p class="home-tagline">
+Học • Đi • Quan sát • Ghi lại
+</p>
+
+<p>
 Mình hiện đang học tập và sinh sống tại Nhật Bản.
+</p>
 
-Website này là nơi mình chia sẻ kiến thức về **tiếng Nhật**, những chuyến **du lịch** và các **trải nghiệm** trong cuộc sống.
+<p>
+Đây là nơi mình chia sẻ những điều mình học được về
+<strong>tiếng Nhật</strong>, những chuyến <strong>du lịch</strong>
+và những <strong>trải nghiệm</strong> trong cuộc sống.
+</p>
 
----
+</div>
 
-## 📚 Nội dung chính
 
-### 🇯🇵 Tiếng Nhật
+<div class="home-cards">
 
-- Phát âm
-- Ngữ pháp
-- Từ vựng
-- Kanji
+<a href="/tieng-nhat/" class="home-card">
+  <span class="card-icon">🇯🇵</span>
+  <h2>Tiếng Nhật</h2>
+  <p>
+    Phát âm, ngữ âm học và những điều thú vị
+    mình học được về tiếng Nhật.
+  </p>
+  <span class="card-link">Khám phá →</span>
+</a>
 
-👉 [Khám phá](/tieng-nhat/)
 
----
+<a href="/du-lich/" class="home-card">
+  <span class="card-icon">✈️</span>
+  <h2>Du lịch</h2>
+  <p>
+    Những nơi mình đã đi qua, những khung cảnh
+    và khoảnh khắc mình muốn lưu giữ.
+  </p>
+  <span class="card-link">Khám phá →</span>
+</a>
 
-### ✈️ Du lịch
 
-- Điểm đến tại Nhật Bản
-- Lịch trình tham khảo
-- Hình ảnh và kỷ niệm
+<a href="/trai-nghiem/" class="home-card">
+  <span class="card-icon">🌿</span>
+  <h2>Trải nghiệm</h2>
+  <p>
+    Cuộc sống, học tập và những câu chuyện nhỏ
+    trong hành trình sống tại Nhật Bản.
+  </p>
+  <span class="card-link">Đọc thêm →</span>
+</a>
 
-👉 [Khám phá](/du-lich/)
+</div>
 
----
 
-### 🌿 Trải nghiệm
+<div class="dream-section">
 
-- Học tập và làm việc tại Nhật
-- Những câu chuyện cá nhân
-- Góc nhìn sau mỗi chặng đường
+<h2>✨ Ước mơ</h2>
 
-👉 [Đọc thêm](/trai-nghiem/)
+<p>
+Những điều mình muốn trải nghiệm, những nơi mình muốn đến
+và những mục tiêu mình muốn thực hiện trong cuộc đời.
+</p>
 
----
+<a href="/uoc-mo/" class="simple-link">
+Xem những điều mình mong ước →
+</a>
 
-### ✨ Ước mơ
+</div>
 
-Những mục tiêu và trải nghiệm mình mong muốn thực hiện trong đời.
 
-👉 [Xem những điều mình mong ước](/uoc-mo/)
+<div class="featured-posts">
 
----
+<h2>⭐ Bài viết nổi bật</h2>
 
-## ⭐ Bài viết nổi bật
+<div class="featured-list">
 
-- [Tổng quan về phát âm tiếng Nhật](/tieng-nhat/phat-am/tong-quan/)
-- [Âm b – p](/tieng-nhat/phat-am/b-p/)
-- [Âm d – t](/tieng-nhat/phat-am/d-t/)
-- [Âm k – g](/tieng-nhat/phat-am/k-g/)
+<a href="/tieng-nhat/phat-am/tong-quan/">
+  Tổng quan về phát âm tiếng Nhật
+</a>
+
+<a href="/tieng-nhat/phat-am/b-p/">
+  Phân biệt âm b – p
+</a>
+
+<a href="/tieng-nhat/phat-am/d-t/">
+  Phân biệt âm d – t
+</a>
+
+<a href="/tieng-nhat/phat-am/k-g/">
+  Phân biệt âm k – g
+</a>
+
+</div>
+
+</div>
