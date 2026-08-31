@@ -11,7 +11,7 @@ Những nơi mình đã đi qua trong hành trình khám phá Nhật Bản.
 
 ## Kyoto
 
-![Kyoto](/images/travel/kyoto.jpg)
+![Kyoto](/images/travel/kyoto.JPG)
 
 ---
 
