@@ -52,11 +52,11 @@ Hy vọng những chia sẻ tại đây có thể hữu ích hoặc mang lại m
 
 <div style="margin: 20px 0; font-size: 1.1em;">
 
-  <a href="LINK_FACEBOOK_CUA_BAN" target="_blank" style="margin-right: 20px;">
+  <a href="https://www.facebook.com/vanannh.le" target="_blank" style="margin-right: 20px;">
     <i class="fab fa-facebook"></i> Facebook
   </a>
 
-  <a href="LINK_TIKTOK_CUA_BAN" target="_blank">
+  <a href="https://www.tiktok.com/@anhleinjapan" target="_blank">
     <i class="fab fa-tiktok"></i> TikTok
   </a>
 
