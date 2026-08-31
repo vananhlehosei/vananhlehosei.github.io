@@ -16,3 +16,4 @@ author_profile: false
 7. Có thể giao tiếp bằng tiếng Anh và đạt chứng chỉ IELTS để bước ra thế giới nhiều hơn.
 8. Đến Tây Tạng và Nepal để tìm hiểu về nơi Đức Phật ra đời và sự lưu truyền của Phật giáo.
 9. Tạo một khóa học video về tiếng Nhật và chia sẻ với mọi người.
+10. Viết 3 cuốn sách liên quan đến cách học tiếng Nhật, trải nghiệm về cuộc sống.
