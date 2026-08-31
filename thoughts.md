@@ -1,6 +1,6 @@
 ---
 title: "Suy nghĩ vẩn vơ"
-permalink: /trai-nghiem/suy-nghi-van-vo/
+permalink: /trai-nghiem/nhung-cau-chuyen-ca-nhan/suy-nghi-van-vo/
 layout: single
 author_profile: false
 sidebar:

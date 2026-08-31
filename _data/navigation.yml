@@ -37,5 +37,9 @@ sidebar-travel:
 sidebar-experience:
   - title: "Trải nghiệm"
     children:
+      - title: "Tổng quan"
+        url: /trai-nghiem/
+  - title: "Những câu chuyện cá nhân"
+    children:
       - title: "Suy nghĩ vẩn vơ"
-        url: /trai-nghiem/suy-nghi-van-vo/
+        url: /trai-nghiem/nhung-cau-chuyen-ca-nhan/suy-nghi-van-vo/

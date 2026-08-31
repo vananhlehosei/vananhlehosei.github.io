@@ -21,8 +21,4 @@ Các trải nghiệm trong môi trường đại học, nghiên cứu và công 
 
 Những suy nghĩ và câu chuyện nhỏ đã góp phần tạo nên hành trình của mình.
 
-### 💭 Suy nghĩ vẩn vơ
-
-Những suy tư của mình về cuộc sống, con người, niềm tin và hành trình trưởng thành.
-
-[Đọc những suy nghĩ vẩn vơ →](/trai-nghiem/suy-nghi-van-vo/)
+[Đọc những câu chuyện cá nhân →](/trai-nghiem/nhung-cau-chuyen-ca-nhan/)
