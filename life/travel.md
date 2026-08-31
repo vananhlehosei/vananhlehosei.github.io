@@ -64,7 +64,3 @@ Những nơi mình đã đi qua trong hành trình khám phá Nhật Bản.
 </div>
 
 ---
-
-## 🌊 Kanagawa
-
-![Kanagawa](/images/travel/kanagawa.jpg)
