@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-# Những điều mong ước được làm trong đời của tôi
+# Những điều mong ước được làm trong đời của tôi trước 40 tuổi
 
 1. Học MBA tại châu Âu bằng kinh phí tự túc, sau khi đi làm và tiết kiệm đủ.
 2. Tiết kiệm được 10 triệu yên trước 35 tuổi.
