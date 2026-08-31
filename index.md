@@ -45,6 +45,14 @@ Website này là nơi mình chia sẻ kiến thức về **tiếng Nhật**, nh�
 
 ---
 
+### ✨ Ước mơ
+
+Những mục tiêu và trải nghiệm mình mong muốn thực hiện trong đời.
+
+👉 [Xem những điều mình mong ước](/uoc-mo/)
+
+---
+
 ## ⭐ Bài viết nổi bật
 
 - [Tổng quan về phát âm tiếng Nhật](/tieng-nhat/phat-am/tong-quan/)
