@@ -33,3 +33,9 @@ sidebar-travel:
     children:
       - title: "Khám phá Nhật Bản"
         url: /du-lich/nhat-ban/
+
+sidebar-experience:
+  - title: "Trải nghiệm"
+    children:
+      - title: "Suy nghĩ vẩn vơ"
+        url: /trai-nghiem/suy-nghi-van-vo/
