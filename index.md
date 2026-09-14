@@ -65,16 +65,6 @@ và những <strong>trải nghiệm</strong> trong cuộc sống.
   <span class="card-link">Đọc thêm →</span>
 </a>
 
-<a href="/nhat-ky/" class="home-card">
-  <span class="card-icon">📖</span>
-  <h2>Nhật ký</h2>
-  <p>
-    Những ghi chép nhỏ về cuộc sống,
-    những ngày bình thường và những suy nghĩ bất chợt.
-  </p>
-  <span class="card-link">Đọc nhật ký →</span>
-</a>
-
 </div>
 
 
