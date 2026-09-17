@@ -28,6 +28,7 @@ sidebar-japanese:
         url: /tieng-nhat/phat-am/d-t/
       - title: "Âm k – g"
         url: /tieng-nhat/phat-am/k-g/
+        
 sidebar-travel:
   - title: "Du lịch"
     children:
@@ -37,15 +38,18 @@ sidebar-travel:
 sidebar-experience:
   - title: "Trải nghiệm"
     children:
+
       - title: "Tổng quan"
         url: /trai-nghiem/
+
       - title: "Cuộc sống tại Nhật"
         children:
+
           - title: "Nhật ký"
-            url: /trai-nghiem/cuoc-song-tai-nhat/nhat-ky/
             children:
               - title: "Nhật ký tháng 9/2026"
                 url: /trai-nghiem/cuoc-song-tai-nhat/nhat-ki-thang-9-2026/
+
       - title: "Những câu chuyện cá nhân"
         children:
           - title: "Suy nghĩ vẩn vơ"
