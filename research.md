@@ -9,9 +9,11 @@ sidebar:
 
 Đây là nơi mình ghi lại những trải nghiệm trong quá trình học tập, làm việc và sinh sống tại Nhật Bản.
 
-## 🌿 Cuộc sống tại Nhật
+## 🌿 Nhật kí cuộc sống tại Nhật
 
 Những điều mình quan sát, học được và muốn lưu giữ trong học tập, công việc và cuộc sống
+
+[Đọc nhật kí →](/trai-nghiem/nhat-ki/)
 
 ## ☕ Những câu chuyện cá nhân
 
