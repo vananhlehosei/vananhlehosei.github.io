@@ -41,10 +41,10 @@ sidebar-experience:
       - title: "Tổng quan"
         url: /trai-nghiem/
 
-      - title: "Cuộc sống tại Nhật"
+      - title: "Nhat-ki"
         children:
           - title: "Nhật ký tháng 9/2026"
-            url: /trai-nghiem/cuoc-song-tai-nhat/
+            url: /trai-nghiem/nhat-ki/nhat-ki-thang-9-2026
 
       - title: "Những câu chuyện cá nhân"
         children:
