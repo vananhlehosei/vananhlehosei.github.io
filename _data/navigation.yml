@@ -43,10 +43,8 @@ sidebar-experience:
 
       - title: "Cuộc sống tại Nhật"
         children:
-          - title: "Nhật ký"
-            url: /trai-nghiem/cuoc-song-tai-nhat/nhat-ky/
           - title: "Nhật ký tháng 9/2026"
-            url: /trai-nghiem/cuoc-song-tai-nhat/nhat-ki-thang-9-2026/
+            url: /trai-nghiem/cuoc-song-tai-nhat/
 
       - title: "Những câu chuyện cá nhân"
         children:
