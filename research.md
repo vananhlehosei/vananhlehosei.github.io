@@ -11,14 +11,11 @@ sidebar:
 
 ## 🌿 Cuộc sống tại Nhật
 
-Những điều mình quan sát, học được và muốn lưu giữ trong cuộc sống thường ngày.
-
-## 🎓 Học tập và công việc
-
-Các trải nghiệm trong môi trường đại học, nghiên cứu và công việc tại Nhật Bản.
+Những điều mình quan sát, học được và muốn lưu giữ trong học tập, công việc và cuộc sống
 
 ## ☕ Những câu chuyện cá nhân
 
 Những suy nghĩ và câu chuyện nhỏ đã góp phần tạo nên hành trình của mình.
 
 [Đọc những câu chuyện cá nhân →](/trai-nghiem/nhung-cau-chuyen-ca-nhan/)
+
