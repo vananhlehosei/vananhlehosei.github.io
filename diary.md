@@ -12,3 +12,7 @@ Nhật kí cuộc sống của tôi
 ## 💭 Nhật kí tháng 9/2026
 
 [Đọc bài viết →](/trai-nghiem/nhat-ki/nhat-ki-thang-9-2026/)
+
+## 💭 Nhật kí tháng 10/2026
+
+[Đọc bài viết →](/trai-nghiem/nhat-ki/nhat-ki-thang-10-2026/)
